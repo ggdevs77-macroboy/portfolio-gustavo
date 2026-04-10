@@ -27,8 +27,8 @@ export default function App() {
           <div className="flex flex-col sm:flex-row sm:items-center gap-6 mt-8">
             <DownloadButton />
             <div className="flex gap-5 text-slate-500">
-              <SocialIcon icon={<Linkedin size={22}/>} url="https://linkedin.com/in/seu-perfil" />
-              <SocialIcon icon={<Github size={22}/>} url="https://github.com/seu-usuario" />
+              <SocialIcon icon={<Linkedin size={22}/>} url="https://www.linkedin.com/in/gustavo-vieira-42a16b387/" />
+              <SocialIcon icon={<Github size={22}/>} url="https://github.com/ggdevs77-macroboy" />
               <SocialIcon icon={<Mail size={22}/>} url="mailto:ggdevs77@gmail.com" />
             </div>
           </div>
